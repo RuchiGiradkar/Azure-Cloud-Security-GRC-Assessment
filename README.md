@@ -271,7 +271,7 @@ Review of deployed infrastructure and resource configuration.
 
 ### RDP Connectivity Review
 
-![RDP Connectivity](screenshots/RDP_Connectivity_Review.png)
+![RDP Connectivity](Screenshots/RDP_Connectivity_Review.png)
 
 Validation of remote administration access using RDP.
 
