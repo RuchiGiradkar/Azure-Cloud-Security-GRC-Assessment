@@ -287,7 +287,7 @@ Review of inbound security rules exposing TCP/3389.
 
 ### Azure Monitoring Review
 
-![Azure Monitoring](screenshots/07-azure-monitoring-review.png)
+![Azure Monitoring](Screenshots/Azure_Monitoring_Review.png)
 
 Assessment of Azure Monitor and alerting configuration.
 
