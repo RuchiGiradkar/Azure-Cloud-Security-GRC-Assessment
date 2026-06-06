@@ -22,7 +22,7 @@ The complete cloud security risk assessment report is available here:
 
 The supporting risk register is available here:
 
-[View the Azure GRC Risk Register](risk-register/azure-grc-risk-register.xlsx)
+[View the Azure GRC Risk Register](Report/Azure_GRC_Risk_Register.xlsx)
 
 ---
 
