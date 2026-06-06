@@ -255,7 +255,7 @@ Deployment of Windows Server 2025 Datacenter in Microsoft Azure.
 
 ### Azure Network Configuration
 
-![Network Configuration](screenshots/02-azure-network-configuration.png)
+![Network Configuration](Screenshots/Azure_Network_Configuration.png)
 
 Configuration of Virtual Network, Subnet, Public IP, and Network Security Group.
 
