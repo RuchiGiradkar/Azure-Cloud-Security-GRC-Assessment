@@ -261,17 +261,9 @@ Configuration of Virtual Network, Subnet, Public IP, and Network Security Group.
 
 ---
 
-### Successful Resource Deployment
-
-![Successful Deployment](screenshots/03-successful-resource-deployment.png)
-
-Successful provisioning of the Azure VM and supporting resources.
-
----
-
 ### Azure VM Overview
 
-![VM Overview](screenshots/04-azure-vm-overview.png)
+![VM Overview](Screenshots/Azure_VM_Overview.png)
 
 Review of deployed infrastructure and resource configuration.
 
