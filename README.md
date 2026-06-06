@@ -14,7 +14,7 @@ The assessment was performed using a risk-based methodology commonly used by sec
 
 The complete cloud security risk assessment report is available here:
 
-[Download the Cloud Security Risk Assessment Report](report/cloud-security-risk-assessment-report.pdf)
+[Download the Cloud Security Risk Assessment Report](Report/Cloud_Security_Risk_Assessment_Report.pdf)
 
 ---
 
