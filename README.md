@@ -247,7 +247,7 @@ Default configurations may not meet enterprise hardening expectations and can in
 
 ### Azure VM Deployment
 
-![Azure VM Deployment](Screenshots/Azure_Network Configuration.png)
+![Azure VM Deployment](Screenshots/Azure_Network_Configuration.png)
 
 Deployment of Windows Server 2025 Datacenter in Microsoft Azure.
 
