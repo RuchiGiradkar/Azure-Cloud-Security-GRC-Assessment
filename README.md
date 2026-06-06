@@ -279,7 +279,7 @@ Validation of remote administration access using RDP.
 
 ### Network Security Group Review
 
-![NSG Rule Review](screenshots/06-nsg-rule-review.png)
+![NSG Rule Review](screenshots/Network_Security Group_Review.png)
 
 Review of inbound security rules exposing TCP/3389.
 
