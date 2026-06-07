@@ -249,7 +249,7 @@ Default configurations may not meet enterprise hardening expectations and can in
 
 ![Azure VM Deployment](Screenshots/Azure_VM_Deployment.png)
 
-Deployment of Windows Server 2025 Datacenter in Microsoft Azure.
+Deployment of Windows Server 2022 Datacenter in Microsoft Azure.
 
 ---
 
